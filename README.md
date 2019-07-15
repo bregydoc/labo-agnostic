@@ -1,6 +1,6 @@
 # {{.Name}}
 
-{{.Name}} is a Python library for dealing with word pluralization.
+{{.Name}} is an agnostic project, only a conceptual test.
 
 ## Installation
 
